@@ -1,0 +1,83 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/_skipped/rasenmaher-und-rasenpflege-01.jpg",
+    "category": "skip",
+    "quality": "low",
+    "subject": "Rasenmäher und Rasenpflege",
+    "subjectSlug": "rasenmaher-und-rasenpflege",
+    "description": "Ein Rasenmäher steht auf einem grünen Rasen, mit Text über Rasenaufbereitung und Pflege."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/_skipped/werbung-fur-gartenservice-01.jpg",
+    "category": "skip",
+    "quality": "low",
+    "subject": "Werbung für Gartenservice",
+    "subjectSlug": "werbung-fur-gartenservice",
+    "description": "Das Bild zeigt eine Werbetafel oder Visitenkarte für einen Gartenservice mit dem Namen 'Gerrys Garten' und einer Liste der angebotenen Dienstleistungen sowie einer Telefonnummer."
+  },
+  {
+    "originalFile": "scraped-03.jpg",
+    "file": "photos/_skipped/logo-mit-g-und-pfeil-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Logo mit G und Pfeil",
+    "subjectSlug": "logo-mit-g-und-pfeil",
+    "description": "Ein Logo mit dem Buchstaben G in einem Kreis und einem Pfeil."
+  },
+  {
+    "originalFile": "scraped-04.jpg",
+    "file": "photos/_skipped/firmenlogo-gartenpflege-01.jpg",
+    "category": "skip",
+    "quality": "low",
+    "subject": "Firmenlogo Gartenpflege",
+    "subjectSlug": "firmenlogo-gartenpflege",
+    "description": "Das Bild zeigt ein Logo für einen Gartenpflegedienst mit E-Mail-Adresse und Orten."
+  },
+  {
+    "originalFile": "scraped-05.jpg",
+    "file": "photos/_skipped/logo-von-gerrys-garten-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Logo von Gerrys Garten",
+    "subjectSlug": "logo-von-gerrys-garten",
+    "description": "Das Bild zeigt das Logo des Unternehmens 'Gerrys Garten' mit einer Telefonnummer."
+  },
+  {
+    "originalFile": "scraped-06.jpg",
+    "file": "photos/_skipped/werbung-fur-gartenpflege-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Werbung für Gartenpflege",
+    "subjectSlug": "werbung-fur-gartenpflege",
+    "description": "Das Bild zeigt eine Übersicht der Dienstleistungen von Gerrys Garten."
+  },
+  {
+    "originalFile": "scraped-07.jpg",
+    "file": "photos/_skipped/heckenschere-beim-heckenschnitt-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Heckenschere beim Heckenschnitt",
+    "subjectSlug": "heckenschere-beim-heckenschnitt",
+    "description": "Das Bild zeigt eine Heckenschere, die eine Hecke schneidet, mit Text über Baum- und Heckenschnittdienstleistungen."
+  },
+  {
+    "originalFile": "scraped-08.jpg",
+    "file": "photos/_skipped/anhanger-entladt-grunschnitt-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Anhänger entlädt Grünschnitt",
+    "subjectSlug": "anhanger-entladt-grunschnitt",
+    "description": "Ein Anhänger entlädt Grünschnitt auf einem Haufen, was auf eine Dienstleistung zur Grünschnittentsorgung hinweist."
+  },
+  {
+    "originalFile": "scraped-09.jpg",
+    "file": "photos/menu_cards/broschure-gartenservice-01.jpg",
+    "category": "menu_card",
+    "quality": "high",
+    "subject": "Broschüre Gartenservice",
+    "subjectSlug": "broschure-gartenservice",
+    "description": "Das Bild zeigt eine Broschüre für einen Garten- und Hausmeisterservice mit Kontaktinformationen und Leistungsbeschreibungen."
+  }
+]
