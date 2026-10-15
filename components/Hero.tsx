@@ -4,7 +4,6 @@ import { useEffect, useRef, useState } from "react";
 
 import company from "@/config/company";
 import { galabau } from "@/lib/galabau";
-import { buildWhatsappHref } from "@/lib/service-area";
 
 /**
  * Hero pattern: a poster image is the base layer, the looping background video
@@ -76,8 +75,6 @@ export function Hero() {
       document.removeEventListener("click", onInteraction);
     };
   }, []);
-
-  const whatsappHref = buildWhatsappHref(galabau.serviceArea.centerCity);
 
   return (
     <section className="relative h-[100dvh] min-h-[560px] overflow-hidden bg-ink">
@@ -152,21 +149,7 @@ export function Hero() {
               >
                 Kostenloses Angebot anfordern
               </a>
-              {whatsappHref ? (
-                <a
-                  href={whatsappHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-2 rounded-full border border-bone/45 bg-bone/5 px-7 py-4 text-[14px] font-medium tracking-wide text-bone backdrop-blur-sm transition-colors hover:bg-bone/15 active:scale-[0.98]"
-                >
-                  Per WhatsApp fragen
-                </a>
-              ) : null}
             </div>
-
-            <p className="mt-5 hidden font-mono text-[11px] uppercase tracking-[0.18em] text-bone/60 md:block">
-              {galabau.assistant.responsePromise}
-            </p>
           </div>
         </div>
       </div>

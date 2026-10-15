@@ -265,7 +265,7 @@ export const galabau: GalabauConfig = {
           "a": "Auf Wunsch nehmen wir das Schnittgut mit und entsorgen es mit unseren Anhängern."
         }
       ],
-      "image": "/assets/leistungen/gewerbliche-aussenanlagen.webp",
+      "image": "/assets/leistungen/grossflaechenmaehung.webp",
       "estimate": {
         "minPerUnit": 0.1,
         "maxPerUnit": 0.4,
@@ -320,7 +320,7 @@ export const galabau: GalabauConfig = {
           "a": "Maßgeblich sind Modulfläche, Verschmutzungsgrad, Dachneigung und Zugang. Online nennen wir nur eine grobe Orientierung, Ihr verbindliches Angebot erstellen wir kostenlos."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/photovoltaik-reinigung.webp",
       "estimate": {
         "minPerUnit": 1.5,
         "maxPerUnit": 4,
@@ -375,7 +375,7 @@ export const galabau: GalabauConfig = {
           "a": "Das hängt von Lage, Schatten und Nutzung ab. Schattige und feuchte Flächen setzen schneller Grünbelag an als sonnige."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/pflaster-teichreinigung.webp",
       "estimate": {
         "minPerUnit": 3,
         "maxPerUnit": 8,
@@ -430,7 +430,7 @@ export const galabau: GalabauConfig = {
           "a": "Ja. Im Full-Service-Paket kombinieren wir Hausmeistertätigkeiten mit der Pflege der Grünanlagen und dem Winterdienst, alles aus einer Hand."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/hausmeisterservice-objektbetreuung.webp",
       "estimate": {
         "minPerUnit": 0,
         "maxPerUnit": 0,
@@ -485,7 +485,7 @@ export const galabau: GalabauConfig = {
           "a": "Gehwege, Zugänge, Zufahrten und Parkflächen. Den genauen Umfang legen wir gemeinsam mit Ihnen fest."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/winterdienst.webp",
       "estimate": {
         "minPerUnit": 0,
         "maxPerUnit": 0,
@@ -606,7 +606,7 @@ export const galabau: GalabauConfig = {
     ]
   },
   "recruiting": {
-    "enabled": false,
+    "enabled": true,
     "headline": "Verstärkung für Gartenpflege und Hausmeisterservice?",
     "teaser": "In 60 Sekunden bewerben. Ohne Lebenslauf, ohne Anschreiben.",
     "intro": "Wenn wir Verstärkung suchen, erzählen Sie uns kurz, was Sie können. Den Rest klären wir am Telefon.",

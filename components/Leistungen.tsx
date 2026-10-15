@@ -14,12 +14,9 @@ export function Leistungen() {
     <section id="leistungen" className="relative bg-bone py-28 md:py-40">
       <div className="mx-auto max-w-[1400px] px-6 md:px-10">
         <div className="border-b border-ink/15 pb-12">
-          <div className="flex items-center gap-3 font-mono text-[11px] uppercase tracking-[0.22em] text-ink/55">
+          <h2 className="flex items-center gap-3 font-mono text-[11px] font-normal uppercase tracking-[0.22em] text-ink/55">
             <span className="marker" />
             <span>Leistungen</span>
-          </div>
-          <h2 className="mt-6 font-display text-[32px] leading-[1.05] tracking-tight text-ink sm:text-[40px] md:text-[58px]">
-            Garten, Solaranlage, Objekt: <span className="italic text-petrol-500">alles aus einer Hand.</span>
           </h2>
         </div>
 
@@ -60,7 +57,6 @@ export function Leistungen() {
                 </span>
               </div>
               <div className="flex flex-col gap-4 p-6">
-                <p className="text-[14px] leading-relaxed text-ink/70">{service.teaser}</p>
                 <span className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.2em] text-petrol-600 transition-colors group-hover:text-petrol-700">
                   {service.cta}
                   <span className="transition-transform duration-300 group-hover:translate-x-1">&rarr;</span>
