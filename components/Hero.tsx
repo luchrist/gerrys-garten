@@ -129,12 +129,6 @@ export function Hero() {
               {company.shortName || company.name}
             </h1>
 
-            {/* Auf dem Handy bleibt neben Firmenname und Buttons kein Platz
-                fuer die Subline, ohne dass der Hero gedraengt wirkt. */}
-            <p className="mt-5 hidden max-w-[46ch] text-[15px] leading-relaxed text-bone/85 drop-shadow-md md:block md:text-[17px]">
-              {galabau.heroSubline}
-            </p>
-
             <p className="mt-3 flex items-center gap-2 text-[14px] text-bone/80 drop-shadow-md md:text-[16px]">
               <svg viewBox="0 0 24 24" aria-hidden="true" className="h-[18px] w-[18px] shrink-0 fill-current">
                 <path d="M12 2c-3.9 0-7 3.1-7 7 0 5.2 6.3 12.4 6.6 12.7.2.2.6.2.8 0 .3-.3 6.6-7.5 6.6-12.7 0-3.9-3.1-7-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z" />
